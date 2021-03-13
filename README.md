@@ -11,7 +11,7 @@ If you have any questions, please feel free to [send me an email](mailto:oliver.
 
 ## You can see my portfolio [here](https://olivertemple.github.io/).
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=olivertemple"/>
+[![olivertemple's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=olivertemple)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
