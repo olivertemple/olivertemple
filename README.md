@@ -5,6 +5,7 @@ Hi! I'm Oliver Temple. I am a computer science, physics and maths student at Exe
 
 If you have any questions, please feel free to [send me an email](mailto:oliver.temple.dev@gmail.com), or if you want more information, visit my [portfolio]("https://olivertemple.github.io").
 
+<br>
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertemple&layout=compact">-->
 
