@@ -9,7 +9,7 @@ If you have any questions, please feel free to [send me an email](mailto:oliver.
 
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertemple&layout=compact">-->
 
-## You can see my portfolio [here](https:/olivertemple.github.io).
+## You can see my portfolio [here](https://olivertemple.github.io/).
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=olivertemple"/>
 
