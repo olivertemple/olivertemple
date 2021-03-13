@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hello There, I'm Oliver 👋
+---
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=olivertemple&title_color=2E4359">
+You can see my portfolio [here](https://github.io/portfolio-website)
 <!--
 **olivertemple/olivertemple** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
