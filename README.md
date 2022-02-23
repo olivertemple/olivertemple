@@ -9,7 +9,7 @@ If you have any questions, please feel free to [send me an email](mailto:oliver.
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertemple">
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olivertemple"> -->
 
 
 <!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=olivertemple">-->
